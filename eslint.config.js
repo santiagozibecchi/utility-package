@@ -15,7 +15,7 @@ export default defineConfig([
   },
   js.configs.recommended, // Reglas recomendadas para JS
   ...tseslint.configs.recommended, // Reglas recomendadas para TypeScript
-  globalIgnores(['dist/*']), // https://eslint.org/docs/latest/use/configure/ignore#name-the-global-ignores-config
+  globalIgnores(['dist/*', 'commitlint.config.js']), // https://eslint.org/docs/latest/use/configure/ignore#name-the-global-ignores-config
   {
     plugins: {
       "simple-import-sort": simpleImportSort,
