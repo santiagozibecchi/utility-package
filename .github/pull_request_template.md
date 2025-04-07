@@ -1,12 +1,19 @@
-# Nombre del feature
+## ✨ Descripción
+Breve explicación del cambio realizado.
 
-## Descripción
+## 🔍 ¿Qué se hizo?
+- [ ] Nueva funcionalidad
+- [ ] Fix de bug
+- [ ] Refactor
+- [ ] Otro
 
-## Cambios visuales
+## 🧪 ¿Cómo probarlo?
+Instrucciones para testear el cambio.
 
-### Checks
+## 📸 Capturas (opcional)
+Adjuntar imágenes si aplica.
 
-[] Realize test sobre los cambios visuales  
-[] Mis cambios fueron probados en un entorno productivo  
-[] Los cambios esta flageados  
-[] Testeado  
+## 📋 Checklist
+- [ ] El código compila
+- [ ] Los tests pasan
+- [ ] Se actualizó la documentación
