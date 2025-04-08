@@ -1,12 +1,12 @@
 {
-  "name": "utility-package",
+  "name": "utility-package-santiago",
   "version": "0.0.1",
   "type": "module",
   "typings": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/utility-package.js",
-      "require": "./dist/utility-package.umd.cjs"
+      "import": "./dist/utility-package-santiago.js",
+      "require": "./dist/utility-package-santiago.umd.cjs"
     }
   },
   "files": [
